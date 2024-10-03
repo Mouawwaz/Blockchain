@@ -49,5 +49,3 @@ blockhain.prototype.proofOfWork = function (prevBlockHash,currentBlockData) {
     }
     return nonce;
 }
-
-module.exports = blockhain;
